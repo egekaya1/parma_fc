@@ -1,5 +1,3 @@
-// script.js or data.js
-
 export function renderMatches() {
   const matchList = document.getElementById("match-list");
   if (!matchList) return;
